@@ -1,0 +1,3 @@
+flask
+cryptography
+curl_cffi
